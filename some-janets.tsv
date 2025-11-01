@@ -101,7 +101,7 @@ https://github.com/JMinyard1335/Janet-rvars
 https://github.com/JMinyard1335/Janet-vector	
 https://github.com/Jakski/janet-base64.git	base64
 https://github.com/Jakski/janet-tsort	
-https://github.com/JohnDoneth/janet-language-server	
+https://github.com/JohnDoneth/janet-language-server	lsp|janet
 https://github.com/LeviSchuck/janet-code	
 https://github.com/LeviSchuck/janet-sigv4	
 https://github.com/LeviSchuck/janetjose	
@@ -213,8 +213,8 @@ https://github.com/chamaeleon/janet-md5	md5|digest
 https://github.com/chamaeleon/janet-plplot	
 https://github.com/chazu/jetris	game|tetris
 https://github.com/chris-chambers/effuse	
-https://github.com/cideM/aoc2024-janet	
-https://github.com/cideM/janet-hsluv	
+https://github.com/cideM/aoc2024-janet	advent of code
+https://github.com/cideM/janet-hsluv	hsluv
 https://github.com/cmiles74/bencode	bencode
 https://github.com/coast-framework/coast-cli	
 https://github.com/corasaurus-hex/isatty	isatty
@@ -300,12 +300,12 @@ https://github.com/janet-lang/argparse
 https://github.com/janet-lang/circlet	web server
 https://github.com/janet-lang/janet	
 https://github.com/janet-lang/janet-lang.org	janet website
-https://github.com/janet-lang/janetui	
+https://github.com/janet-lang/janetui	libui
 https://github.com/janet-lang/jaylib	raylib
-https://github.com/janet-lang/jhydro	
+https://github.com/janet-lang/jhydro	libhydrogen
 https://github.com/janet-lang/jpm	
 https://github.com/janet-lang/json	json
-https://github.com/janet-lang/juv	
+https://github.com/janet-lang/juv	libuv
 https://github.com/janet-lang/path	
 https://github.com/janet-lang/pkgs	
 https://github.com/janet-lang/spork	
@@ -336,13 +336,13 @@ https://github.com/joy-framework/moondown
 https://github.com/joy-framework/suresql	
 https://github.com/joy-framework/tester	testing
 https://github.com/joy-framework/uuid	uuid
-https://github.com/jsks/janet-sdbus	
+https://github.com/jsks/janet-sdbus	sd-bus
 https://github.com/jsks/janet-timing	
 https://github.com/k-nrd/tj	
 https://github.com/kamisori/inku	
 https://github.com/kamisori/janets-peggin-compiler	
-https://github.com/kamisori/obsidian-janet	
-https://github.com/kamisori/wjpu	
+https://github.com/kamisori/obsidian-janet	obsidian
+https://github.com/kamisori/wjpu	wgpu|glfw
 https://github.com/katafrakt/isjanetthereyet	
 https://github.com/kiedtl/cel7ce	
 https://github.com/kiedtl/roguelike	game|rogue
@@ -363,7 +363,7 @@ https://github.com/m7andrew/escape-url	url
 https://github.com/m7andrew/printy	
 https://github.com/m7andrew/read-write-http	http
 https://github.com/maolonglong/janet-yyjson	
-https://github.com/meinside/telegram-bot-janet	
+https://github.com/meinside/telegram-bot-janet	telegram
 https://github.com/meinside/telegram-janet-repl-bot	telegram
 https://github.com/meinside/httprequest-janet	http
 https://github.com/ml-2/cannette	
@@ -379,7 +379,7 @@ https://github.com/newhook/janet-mysql	mysql
 https://github.com/nii236/janet-odin	odin
 https://github.com/ovalnine/advent-of-code	advent of code
 https://github.com/pauldub/janet-http-client	http
-https://github.com/pepe/barista	
+https://github.com/pepe/barista	swaybar
 https://github.com/pepe/deviman	
 https://github.com/pepe/hyper-present	
 https://github.com/pepe/janet-playground	
