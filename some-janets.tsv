@@ -93,7 +93,7 @@ https://github.com/ChanderG/jane
 https://github.com/CubicMelon/janet-tic80-module	tic80
 https://github.com/Duncaen/adventofcode-janet	advent of code
 https://github.com/Duncaen/dhall-janet	
-https://github.com/GrayJack/Advent-Of-Code	
+https://github.com/GrayJack/Advent-Of-Code	advent of code
 https://github.com/GrayJack/janet-str-ext	rust|string|janet
 https://github.com/GrayJack/rust-janet-module-template	rust
 https://github.com/Holmqvist1990/choosing-a-scripting-language	
@@ -118,7 +118,7 @@ https://github.com/PaulBatchelor/junt
 https://github.com/PaulBatchelor/weewiki	wiki
 https://github.com/Putnam3145/janet-d	
 https://github.com/RayMPerry/kitchen-sink	
-https://github.com/RebelPotato/youtube-subs	
+https://github.com/RebelPotato/youtube-subs	youtube|subtitles
 https://github.com/Ruin0x11/janet-shiori	
 https://github.com/Techcable/janet-json-pure	json
 https://github.com/Techcable/janet-msgpack	msgpack
@@ -149,7 +149,7 @@ https://github.com/ahungry/puny-server
 https://github.com/andrewchambers/hermes	
 https://github.com/andrewchambers/hm	
 https://github.com/andrewchambers/hpkg	
-https://github.com/andrewchambers/janet-ahttp	
+https://github.com/andrewchambers/janet-ahttp	http
 https://github.com/andrewchambers/janet-bare1	
 https://github.com/andrewchambers/janet-base16	base16
 https://github.com/andrewchambers/janet-big	
@@ -163,20 +163,20 @@ https://github.com/andrewchambers/janet-jcjit
 https://github.com/andrewchambers/janet-jdn	jdn
 https://github.com/andrewchambers/janet-logfmt	
 https://github.com/andrewchambers/janet-md-doc	
-https://github.com/andrewchambers/janet-nested-text	
+https://github.com/andrewchambers/janet-nested-text	nestedtext
 https://github.com/andrewchambers/janet-pgjobq	jobq|postgres|redis
 https://github.com/andrewchambers/janet-pgjobq2	jobq|postgres|redis
 https://github.com/andrewchambers/janet-pgmigrate	postgres
 https://github.com/andrewchambers/janet-pico-http-parser	http
 https://github.com/andrewchambers/janet-posix-spawn	posix spawn
-https://github.com/andrewchambers/janet-pq	
+https://github.com/andrewchambers/janet-pq	libpq
 https://github.com/andrewchambers/janet-process	
 https://github.com/andrewchambers/janet-redis	redis
 https://github.com/andrewchambers/janet-redo	redo
 https://github.com/andrewchambers/janet-rlrepl	
 https://github.com/andrewchambers/janet-sh	
 https://github.com/andrewchambers/janet-shlex	
-https://github.com/andrewchambers/janet-tmppg	
+https://github.com/andrewchambers/janet-tmppg	postgres
 https://github.com/andrewchambers/janet-unify	
 https://github.com/andrewchambers/janet-uri	uri
 https://github.com/andrewchambers/janet-utf8	utf8
@@ -190,7 +190,7 @@ https://github.com/andrewchambers/plumbtool
 https://github.com/andrewchambers/poolparty	
 https://github.com/bakpakin/janet-miniz	miniz
 https://github.com/bakpakin/littleserver	
-https://github.com/bakpakin/mendoza	
+https://github.com/bakpakin/mendoza	static site generator
 https://github.com/bakpakin/x43bot	irc
 https://github.com/beleon/mustache-janet	mustache
 https://github.com/bitcompost/janet-pledge	
@@ -199,7 +199,7 @@ https://github.com/brandonchartier/janet-irc-client	irc|client
 https://github.com/brandonchartier/janet-queue	
 https://github.com/brandonchartier/janet-url	url
 https://github.com/brandonchartier/janet-uuid	uuid
-https://github.com/brandonchartier/jobot	
+https://github.com/brandonchartier/jobot	irc
 https://github.com/bunder/janet-primesieve	primesieve
 https://github.com/ceigey/textgame-janet-protoype	
 https://github.com/cellularmitosis/janet-lzo	lzo|compression
@@ -312,7 +312,7 @@ https://github.com/janet-lang/spork
 https://github.com/janet-lang/sqlite3	sqlite
 https://github.com/janet-lang/tarray	
 https://github.com/janet-lang/webview	
-https://github.com/jcpsantiago/hazal	
+https://github.com/jcpsantiago/hazal	sagemaker
 https://github.com/jeannekamikaze/janet-filesystem	
 https://github.com/jeannekamikaze/webgen	
 https://github.com/jfcap/janet-luajit	lua
@@ -337,9 +337,9 @@ https://github.com/joy-framework/suresql
 https://github.com/joy-framework/tester	testing
 https://github.com/joy-framework/uuid	uuid
 https://github.com/jsks/janet-sdbus	sd-bus
-https://github.com/jsks/janet-timing	
+https://github.com/jsks/janet-timing	benchmark
 https://github.com/k-nrd/tj	
-https://github.com/kamisori/inku	
+https://github.com/kamisori/inku	imgui
 https://github.com/kamisori/janets-peggin-compiler	
 https://github.com/kamisori/obsidian-janet	obsidian
 https://github.com/kamisori/wjpu	wgpu|glfw
