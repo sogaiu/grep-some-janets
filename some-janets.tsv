@@ -349,8 +349,13 @@ https://github.com/kiedtl/roguelike	game|rogue
 https://github.com/kixus/mycom-mygreetlib	
 https://github.com/kmooney/learn-janet	
 https://github.com/kongeor/skolio	
-https://github.com/kuettler/janet-base58	
-https://github.com/kuettler/jmp	
+https://github.com/kuettler/janet-base58	base58
+https://github.com/kuettler/janet-gcrypt	gcrypt
+https://github.com/kuettler/janet-openssl	openssl
+https://github.com/kuettler/janet-ripemd160	ripemd160
+https://github.com/kuettler/janet-ripple-base58	base58
+https://github.com/kuettler/janet-secp256k1	secp256k1
+https://github.com/kuettler/jmp	gmp
 https://github.com/leahneukirchen/literate-janet	
 https://github.com/livtanong/jdn-loader	jdn
 https://github.com/llmII/jlogger	
