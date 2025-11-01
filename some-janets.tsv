@@ -529,7 +529,7 @@ https://github.com/subsetpark/janet-dtgb
 https://github.com/subsetpark/pantagruel	
 https://github.com/swlkr/askjanet	
 https://github.com/swlkr/janetdocs	
-https://github.com/swlkr/janet-html	
+https://github.com/swlkr/janet-html	html
 https://github.com/swlkr/osprey	
 https://github.com/swlkr/patter	
 https://github.com/swlkr/reddit-tiktok	
@@ -546,7 +546,7 @@ https://github.com/tionis/adventofcode
 https://github.com/tionis/cosmo	
 https://github.com/tionis/dice.janet	
 https://github.com/tionis/git-skm	
-https://github.com/tionis/git-tools	
+https://github.com/tionis/git-tools	git
 https://github.com/tionis/glyph.janet	
 https://github.com/tionis/mensa.janet	
 https://github.com/tionis/moneta	
@@ -562,23 +562,23 @@ https://github.com/volodymyrpukha/smw
 https://github.com/wmealing/hobby-farm	
 https://github.com/wmealing/janet-joy-live	
 https://github.com/wooosh/janet-openssl-hash	
-https://github.com/xyb3rt/advent-of-code	
-https://github.com/yumaikas/LispGameJamAutumn2021	
+https://github.com/xyb3rt/advent-of-code	advent of code
+https://github.com/yumaikas/LispGameJamAutumn2021	game
 https://github.com/yumaikas/add-software-license	
 https://github.com/yumaikas/anno	
 https://github.com/yumaikas/anno-server	
-https://github.com/yumaikas/aoc2020	
+https://github.com/yumaikas/aoc2020	advent of code
 https://github.com/yumaikas/cartnet	
 https://github.com/yumaikas/chrono	
 https://github.com/yumaikas/dirx	
 https://github.com/yumaikas/eye	
 https://github.com/yumaikas/jagged-scraps	
-https://github.com/yumaikas/janet-datex	
+https://github.com/yumaikas/janet-datex	date
 https://github.com/yumaikas/janet-errs	
 https://github.com/yumaikas/janet-globals	
-https://github.com/yumaikas/janet-peg-playground	
+https://github.com/yumaikas/janet-peg-playground	peg|wasm
 https://github.com/yumaikas/janet-pkg-lint	
-https://github.com/yumaikas/janet-stringx	
+https://github.com/yumaikas/janet-stringx	string
 https://github.com/yumaikas/janet-tempfiles	
 https://github.com/yumaikas/janitor	
 https://github.com/yumaikas/newt	
@@ -589,11 +589,11 @@ https://github.com/yumaikas/size
 https://github.com/yumaikas/tally	
 https://github.com/yumaikas/trees	
 https://github.com/zacharycarter/voodoo	
-https://github.com/zenlor/janet-csv	
-https://github.com/zevv/janet-dns	
+https://github.com/zenlor/janet-csv	csv
+https://github.com/zevv/janet-dns	dns
 https://github.com/zevv/janet-time	
-https://github.com/zevv/janetttls	
-https://gitlab.com/jeannekamikaze/janet-glfw	
+https://github.com/zevv/janetttls	tls
+https://gitlab.com/jeannekamikaze/janet-glfw	glfw
 https://gitlab.com/louis.jackman/janet-hypertext	
 https://notabug.org/debris/collider-janet	
 https://notabug.org/debris/lllm-janet	
