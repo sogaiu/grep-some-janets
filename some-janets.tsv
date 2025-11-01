@@ -361,7 +361,7 @@ https://github.com/m7andrew/biplane
 https://github.com/m7andrew/encode-html	html
 https://github.com/m7andrew/escape-url	url
 https://github.com/m7andrew/printy	
-https://github.com/m7andrew/read-write-http	
+https://github.com/m7andrew/read-write-http	http
 https://github.com/maolonglong/janet-yyjson	
 https://github.com/meinside/telegram-bot-janet	
 https://github.com/meinside/telegram-janet-repl-bot	telegram
@@ -389,7 +389,7 @@ https://github.com/pepe/smw
 https://github.com/phillvancejr/Cpp-Go-Zig-Odin	
 https://github.com/pingiun/jequests	
 https://github.com/profan/protohackers-in-janet	
-https://github.com/pyrmont/advent	
+https://github.com/pyrmont/advent	advent of code
 https://github.com/pyrmont/argy-bargy	
 https://github.com/pyrmont/arnie	benchmark
 https://github.com/pyrmont/bencodobi	bencode
@@ -405,8 +405,8 @@ https://github.com/pyrmont/jeep
 https://github.com/pyrmont/lemongrass	
 https://github.com/pyrmont/markable	markdown
 https://github.com/pyrmont/medea	json
-https://github.com/pyrmont/musty	
-https://github.com/pyrmont/outfool	
+https://github.com/pyrmont/musty	mustache
+https://github.com/pyrmont/outfool	utf8
 https://github.com/pyrmont/persimmon	
 https://github.com/pyrmont/predoc	
 https://github.com/pyrmont/remarkable	markdown
@@ -417,11 +417,11 @@ https://github.com/pyrmont/watchful
 https://github.com/quan-nh/sync-run	
 https://github.com/rduplain/hosts	
 https://github.com/rlonstein/janet-pure-parsers	
-https://github.com/rokf/janet-datastar	
+https://github.com/rokf/janet-datastar	datastar
 https://github.com/rokf/janet-jwt	jwt
 https://github.com/rokf/janet-lucide	
 https://github.com/rokf/janet-resp	
-https://github.com/rokf/janet-rqlite	
+https://github.com/rokf/janet-rqlite	rqlite
 https://github.com/rokf/janet-tile38	
 https://github.com/roobie/crankshaft	
 https://github.com/roobie/maybe	
@@ -429,10 +429,10 @@ https://github.com/roobie/redis	redis
 https://github.com/roobie/sumtype	
 https://github.com/runejuhl/toggle-leds	
 https://github.com/rushsteve1/spinnerette	
-https://github.com/rwtolbert/fltk-janet	
+https://github.com/rwtolbert/fltk-janet	fltk
 https://github.com/rwtolbert/janet-native-tools	
-https://github.com/rwtolbert/re-janet	
-https://github.com/s-lambert/janet-game	
+https://github.com/rwtolbert/re-janet	std::regex
+https://github.com/s-lambert/janet-game	game
 https://github.com/saikyun/cross	
 https://github.com/saikyun/fiery-sara	
 https://github.com/saikyun/fiery-soul	
@@ -450,7 +450,7 @@ https://github.com/saikyun/janet-find-in-files
 https://github.com/saikyun/janet-generate-structs	
 https://github.com/saikyun/janet-namespaces	
 https://github.com/saikyun/janet-profiling	
-https://github.com/saikyun/janet-whereami	
+https://github.com/saikyun/janet-whereami	whereami
 https://github.com/saikyun/pixel-editor	
 https://github.com/saikyun/survival-horror	
 https://github.com/saikyun/text-adventure	
@@ -459,14 +459,14 @@ https://github.com/saikyun/unification
 https://github.com/samuelludwig/janet-prelude	
 https://github.com/samuelludwig/quick-janet-netrepl	
 https://github.com/samuelludwig/what	
-https://github.com/sbocq/janet-duckdb	
-https://github.com/scotthaleen/jhttp	
+https://github.com/sbocq/janet-duckdb	duckdb
+https://github.com/scotthaleen/jhttp	curl
 https://github.com/seletz/janet-fu	
 https://github.com/sepisoad/SubJanet	
 https://github.com/sepisoad/jtbox	
-https://github.com/sepisoad/jurl	
+https://github.com/sepisoad/jurl	curl
 https://github.com/sepisoad/labgoo	
-https://github.com/sepisoad/super-janet-typist	
+https://github.com/sepisoad/super-janet-typist	game
 https://github.com/sevanteri/janet-secret	
 https://github.com/sevanteri/jopass	
 https://github.com/skuzzymiglet/typeup-janet	
@@ -482,14 +482,14 @@ https://github.com/sogaiu/janet-bits
 https://github.com/sogaiu/janet-bounds	
 https://github.com/sogaiu/janet-checksums	md5|sha1|sha2|digest
 https://github.com/sogaiu/janet-delims	
-https://github.com/sogaiu/janet-ex-as-tests	
+https://github.com/sogaiu/janet-ex-as-tests	testing
 https://github.com/sogaiu/janet-indent	
 https://github.com/sogaiu/janet-jsonish	json
 https://github.com/sogaiu/janet-last-expression	
 https://github.com/sogaiu/janet-minipbt-translation	
 https://github.com/sogaiu/janet-pcg-random	
 https://github.com/sogaiu/janet-peg	
-https://github.com/sogaiu/janet-pegdoc	
+https://github.com/sogaiu/janet-pegdoc	peg
 https://github.com/sogaiu/janet-please	
 https://github.com/sogaiu/janet-punyishcode	
 https://github.com/sogaiu/janet-ref	
@@ -508,7 +508,7 @@ https://github.com/sogaiu/jaylib-tetris	game|tetris
 https://github.com/sogaiu/jaylib-wasm-demo	raylib|wasm
 https://github.com/sogaiu/jdoc	
 https://github.com/sogaiu/jpm-tasks-view	
-https://github.com/sogaiu/margaret	
+https://github.com/sogaiu/margaret	peg
 https://github.com/sogaiu/review-janet	linting
 https://github.com/sogaiu/small-peg-tracer	
 https://github.com/sogaiu/spork-http-sample	http|examples
@@ -517,7 +517,7 @@ https://github.com/staab/budgetless
 https://github.com/staab/esv	
 https://github.com/staab/janet-assert	
 https://github.com/staab/janet-cache	
-https://github.com/staab/janet-js	
+https://github.com/staab/janet-js	javascript
 https://github.com/staab/janet-multimethod	
 https://github.com/staab/janet-pqutils	
 https://github.com/staab/janet-pseudo-set	
