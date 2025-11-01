@@ -329,7 +329,7 @@ https://github.com/joy-framework/example-todos
 https://github.com/joy-framework/halo	
 https://github.com/joy-framework/halo2	
 https://github.com/joy-framework/http	http
-https://github.com/joy-framework/joy	
+https://github.com/joy-framework/joy	web framework
 https://github.com/joy-framework/joy-framework.github.io	
 https://github.com/joy-framework/joyframework.com	
 https://github.com/joy-framework/moondown	
@@ -363,12 +363,12 @@ https://github.com/llmII/jlogger
 https://github.com/llmII/jscreenshot	
 https://github.com/llmII/jsys	
 https://github.com/llmII/spawn-utils/	
-https://github.com/m7andrew/biplane	
+https://github.com/m7andrew/biplane	web framework
 https://github.com/m7andrew/encode-html	html
 https://github.com/m7andrew/escape-url	url
 https://github.com/m7andrew/printy	
 https://github.com/m7andrew/read-write-http	http
-https://github.com/maolonglong/janet-yyjson	
+https://github.com/maolonglong/janet-yyjson	json
 https://github.com/meinside/telegram-bot-janet	telegram
 https://github.com/meinside/telegram-janet-repl-bot	telegram
 https://github.com/meinside/httprequest-janet	http
@@ -536,7 +536,7 @@ https://github.com/subsetpark/pantagruel
 https://github.com/swlkr/askjanet	
 https://github.com/swlkr/janetdocs	
 https://github.com/swlkr/janet-html	html
-https://github.com/swlkr/osprey	
+https://github.com/swlkr/osprey	web framework
 https://github.com/swlkr/patter	
 https://github.com/swlkr/reddit-tiktok	
 https://github.com/swlkr/speakeasy	
@@ -544,14 +544,14 @@ https://github.com/swlkr/sqlheavy
 https://github.com/swlkr/stripe-janet	
 https://github.com/swlkr/tw	
 https://github.com/sysread/skewheap-janet	
-https://github.com/tantona/janetroids	
+https://github.com/tantona/janetroids	game
 https://github.com/thegeez/jalmer	
 https://github.com/thegeez/janet-jsvm	
 https://github.com/thegeez/janet-postings	
-https://github.com/tionis/adventofcode	
-https://github.com/tionis/cosmo	
-https://github.com/tionis/dice.janet	
-https://github.com/tionis/git-skm	
+https://github.com/tionis/adventofcode	advent of code
+https://github.com/tionis/cosmo	deprecated
+https://github.com/tionis/dice.janet	dice
+https://github.com/tionis/git-skm	ssh|key management
 https://github.com/tionis/git-tools	git
 https://github.com/tionis/glyph.janet	
 https://github.com/tionis/mensa.janet	
@@ -559,10 +559,10 @@ https://github.com/tionis/moneta
 https://github.com/tionis/toolbox	
 https://github.com/tmward/janet-misc	
 https://github.com/tmward/jask	
-https://github.com/trengrj/janet-rocksdb	
-https://github.com/tttuuu888/janet-botan	
-https://github.com/tttuuu888/janet-pkcs11	
-https://github.com/turnerdev/janet-cozo	
+https://github.com/trengrj/janet-rocksdb	rocksdb
+https://github.com/tttuuu888/janet-botan	botan
+https://github.com/tttuuu888/janet-pkcs11	pkcs 11
+https://github.com/turnerdev/janet-cozo	cozodb
 https://github.com/uvtc/janet-rand	
 https://github.com/volodymyrpukha/smw	
 https://github.com/wmealing/hobby-farm	
